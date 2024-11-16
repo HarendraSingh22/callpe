@@ -7,7 +7,7 @@ title: CallPe
 description: Where is this??
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/callpe"
+baseurl: "https://callpe.in/"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
